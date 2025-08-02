@@ -36,10 +36,10 @@ const CompanionSession = async ({ params }: CompanionSessionPageProps) => {
                                 {subject}
                             </div>
                         </div>
-                        <p className="text-lg">{topic}</p>
+                        <p className="text-lg max-w-[950px]">{topic}</p>
                     </div>
                 </div>
-                <div className="items-start text-2xl max-md:hidden">
+                <div className="text-2xl max-md:hidden mt-6">
                     {duration} minutes
                 </div>
             </article>
