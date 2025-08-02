@@ -29,3 +29,17 @@ npm install @clerk/nextjs
 check out clerk to learn more
 
 used supabase
+
+```js
+  if (subject && topic) {
+    query = query
+      .ilike("subject", `%${subject}%`)
+      .or(`topic.ilike.%${topic}%,name.ilike.%${topic}%`);
+  } else if (subject) {
+    query = query.ilike("subject", `%${subject}%`);
+  } else if (topic) {
+    query = query.or(`topic.ilike.%${topic}%,name.ilike.%${topic}%`);
+  }
+```
+
+npm i @jsmastery/utils
