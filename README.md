@@ -43,3 +43,5 @@ used supabase
 ```
 
 npm i @jsmastery/utils
+
+npm install @vapi-ai/web
