@@ -47,3 +47,7 @@ npm i @jsmastery/utils
 npm install @vapi-ai/web
 
 npx @sentry/wizard@latest -i nextjs --saas --org daniel-zp --project javascript-nextjs
+
+npx shadcn@latest add accordion
+
+npm i @opentelemetry/core
