@@ -10,7 +10,7 @@ This project allows you to:
 
 - Authenticate users using Clerk (Google sign-in & more)
 - Handle subscriptions and billing via Stripe
-- Integrate **AI Voice Agents** with [Vapi](https://www.vapi.ai/)
+- Integrate **AI Voice Agents** with **Vapi**
 - Store and manage data in **Supabase**
 - Build reusable UI components using **Tailwind CSS** and **shadcn/ui**
 - Monitor performance and bugs using **Sentry**
