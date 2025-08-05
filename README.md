@@ -24,7 +24,6 @@ This project allows you to:
 | **Next.js** | Full-stack React framework with SSR, API routes, and great performance |
 | **Clerk**   | Authentication and billing solution with UI components and flexible APIs |
 | **Supabase**| Open-source Firebase alternative for real-time DB, auth, and storage |
-| **Stripe**  | Payment gateway for managing subscriptions and billing |
 | **Vapi**    | Voice AI for real-time interactive tutoring experiences |
 | **Sentry**  | Tracks and fixes bugs with real-time monitoring |
 | **shadcn/ui** | Modern UI components built on Tailwind + Radix |
