@@ -64,7 +64,7 @@ Make sure you have the following installed:
 ```bash
 # Clone the repository
 git clone https://github.com/RodrigueDaniel/SaaS-Application.git
-cd saas-app
+cd SaaS-Application
 ```
 
 ## Install dependencies
