@@ -1,6 +1,6 @@
-# 🧠 LMS SaaS App
+# 🧠 LMS Converso App
 
-Create a full-fledged **Learning Management System (LMS)** SaaS app from scratch! This platform features user authentication, subscriptions, payments, and an AI voice tutor—empowering seamless and interactive learning sessions in real-time.
+Create a full-fledged **Learning Management System (LMS)** Converso SaaS app from scratch! This platform features user authentication, subscriptions, payments, and an AI voice tutor—empowering seamless and interactive learning sessions in real-time.
 
 ---
 
